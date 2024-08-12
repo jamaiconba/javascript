@@ -4,8 +4,8 @@ var petCat;
 var petCat = "Pepper"
 console.log(petDog)
 console.log(petCat)
-console.log("My pet dog's name is:", petDog)
-console.log("My pet cat's name is:", petCat)
+console.log("My pet dog's name is: " + petDog);
+console.log("My pet cat's name is: " + petCat);
 var catSound;
 var catSound = "purr"
 var dogSound;
